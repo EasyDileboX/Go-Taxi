@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "Go Taxi",
+    "slug": "go-taxi",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "sdkVersion": "48.0.0",
+    "extra": {
+      "googleMapsApiKey": "GOOGLE_MAPS_API_KEY_PLACEHOLDER"
+    }
+  }
+}
